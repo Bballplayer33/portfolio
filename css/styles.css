@@ -253,7 +253,7 @@ img {
     flex-direction: column;
     font-weight: 300;
 }
-.contactInfoBx .box .text h3 {
+.contactInfoBx .box .text h3, a {
     font-weight: 500;
     color: #2196f3;
 }

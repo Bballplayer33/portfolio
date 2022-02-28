@@ -149,7 +149,7 @@ img {
 }
 .services .content .serviceBx {
     padding: 40px 20px;
-    background:222 ;
+    background:#222 ;
     color: #fff;
     max-width: 340px;
     margin: 20px;
@@ -167,6 +167,9 @@ img {
     font-size: 20px;
     font-weight: 600;
 }
+.work {
+    background: #f8f8ff;
+}
 .work .content {
     display: flex;
     justify-content: space-between;
@@ -175,6 +178,10 @@ img {
 .work .content .workBx {
     width: 50%;
     padding: 20px;
+    transition: .3s;
+}
+.work .content .workBx:hover {
+    background: #2196f3;
 }
 .work .content .workBx img {
     max-width: 100%;

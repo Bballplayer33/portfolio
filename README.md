@@ -7,7 +7,10 @@
 
 
 ## Usage
-  Building a beautilful mobile friendly site. 
+  ### Building a beautilful mobile friendly site. 
+  ![alt text](images/screens/welcome.png)
+  ![alt text](images/screens/services.png)
+  ![alt text](images/screens/contact.png)
 
 
 ## Conclusion

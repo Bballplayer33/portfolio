@@ -3,7 +3,7 @@
 ## User Story
   As a user I want to create a portfolio that best displays my abilities as a full stack developer. Showcasing HTML, CSS, & JavaScript, I was able to put this together. Enjoy!! :smile:
 
-## [Check out my Profile](https://bballplayer33.github.io/portfolio/)
+## :zap:[Check out my Profile](https://bballplayer33.github.io/portfolio/):zap:
 
 
 ## Usage

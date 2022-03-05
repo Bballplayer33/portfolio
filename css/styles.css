@@ -121,6 +121,7 @@ header.sticky ul li a {
     justify-content:space-between ;
 }
 
+
 .contentBx {
     padding: 30px;
 }
@@ -175,6 +176,10 @@ img {
     justify-content: space-between;
     flex-wrap: wrap;
 }
+.workdesc {
+text-align: center;
+}
+
 .work .content .workBx {
     width: 50%;
     padding: 20px;
